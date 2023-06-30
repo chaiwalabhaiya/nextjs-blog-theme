@@ -9,7 +9,7 @@ export default function Header({ name }) {
           <a>{name}bst</a>
         </Link>
       </p>
-    
+    <p>vbbvbv</p>
     </header>
   );
 }
