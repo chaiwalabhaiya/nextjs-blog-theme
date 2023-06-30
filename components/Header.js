@@ -9,7 +9,7 @@ export default function Header({ name }) {
           <a href="https://financeappsfaq.com/does-wawa-accept-apple-pay/">Does Wawa accept Apple Pay?</a>
         </Link>
       </p>
-    <p>vbbvbv</p>
+    <p></p>
     </header>
   );
 }
